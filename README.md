@@ -1,6 +1,6 @@
 ## For quick start
 
-** git clone https://github.com/TatevGabrielyan/hexometer.git **
+git clone https://github.com/TatevGabrielyan/hexometer.git 
 
-_ cd hexometer _
-_ gatsby develop _
+cd hexometer 
+gatsby develop 
