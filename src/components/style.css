@@ -1,0 +1,57 @@
+.Typewriter{
+
+    display:contents!important
+}
+
+.nav-link {
+    
+	text-decoration: none;
+	background: linear-gradient(#16AC59, #16AC59) bottom / 0 .1em no-repeat;
+	transition: 1s background-size;
+    font:500 15px Poppins,sans-serif;
+    color: #5E6162;
+}
+
+.nav-link:hover {
+	background-size: 100% .1em;
+    color:#16AC59!important;
+}
+.form{
+    margin: auto;
+    margin-bottom: 0rem;
+}
+p{
+    font: 400 16px/26px Poppins,sans-serif;
+    color: #323537;
+}
+.header-2nd{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+/* Variations */
+a.left {
+	background-position: left bottom;
+}
+nav{
+    width: 88%;
+    margin: auto;
+    box-shadow: 0 4px 6px 0 rgb(12 0 46 / 6%);
+}
+.navbar-brand:hover{
+    text-decoration: none!important;
+}
+button:hover{
+    color: #16ac59!important;
+    background: #fff!important;
+}
+h1{
+    margin-top: 5rem;
+}
+
+/* slider */
+
+.slick-list{
+    width:91%;
+    margin: auto;
+}
